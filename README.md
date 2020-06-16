@@ -5,6 +5,8 @@ with  Maven, SBT or Gradle which can be run on either DataStax Enterprise (DSE) 
 example project implements a simple write-to-/read-from-Cassandra application for each language and
 build tool.
 
+Contributers: [Jaroslaw Grabowski](https://github.com/jtgrabowski), [Russell Spitzer](https://github.com/RussellSpitzer)
+
 ## Dependencies
 
 Compiling Spark applications depends on Apache Spark and optionally on Spark Cassandra Connector
